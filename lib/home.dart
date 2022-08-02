@@ -361,10 +361,11 @@ class MenuItem extends StatelessWidget {
         padding: const EdgeInsets.symmetric(vertical: 5, horizontal: 10),
         decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(15),
-            color: menu == selectedMenu ? green : white),
+            color: menu == selectedMenu ? green : grey.shade100),
         child: Text(
           menu,
-          style: roboto.copyWith(color: menu == selectedMenu ? white : black),
+          style: roboto.copyWith(
+              fontSize: 14, color: menu == selectedMenu ? white : black),
         ));
   }
 }
