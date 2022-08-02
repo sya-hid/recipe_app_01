@@ -57,7 +57,7 @@ class _DetailPageState extends State<DetailPage> {
                       padding: const EdgeInsets.all(7),
                       decoration: BoxDecoration(
                           shape: BoxShape.circle,
-                          color: black.withOpacity(0.5)),
+                          color: black.withOpacity(0.4)),
                       child: const Icon(
                         Icons.arrow_back_rounded,
                         color: white,

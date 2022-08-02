@@ -25,6 +25,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: grey.shade100,
       body: Column(
         children: [
           const SizedBox(height: 30),
@@ -81,7 +82,7 @@ class _HomePageState extends State<HomePage> {
             padding: const EdgeInsets.symmetric(horizontal: 20),
             child: Container(
               decoration: BoxDecoration(
-                  borderRadius: BorderRadius.circular(15),
+                  borderRadius: BorderRadius.circular(20),
                   color: grey.shade200),
               child: TextField(
                 decoration: InputDecoration(
