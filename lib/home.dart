@@ -390,20 +390,21 @@ class ProductItem extends StatelessWidget {
         children: [
           Container(
             margin: const EdgeInsets.all(5),
-            padding: const EdgeInsets.all(5),
+            padding: const EdgeInsets.all(3),
             decoration: BoxDecoration(
                 shape: BoxShape.circle,
                 color: product.fav ? red : black.withOpacity(0.6)),
             child: const Icon(
               Icons.favorite_border_rounded,
               color: white,
+              size: 18,
             ),
           ),
           Container(
             padding: const EdgeInsets.all(10),
             decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(10),
-                color: black.withOpacity(0.5)),
+                color: black.withOpacity(0.6)),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -434,7 +435,7 @@ class ProductItem extends StatelessWidget {
                 ),
                 const SizedBox(height: 3),
                 Text(
-                  '1 Bowl (${product.weight}) g',
+                  '1 Bowl (${product.weight}g)',
                   style: roboto.copyWith(color: white),
                 ),
                 const SizedBox(height: 3),
