@@ -1,16 +1,21 @@
-# recipe_app
+# Grocery App
 
-A new Flutter project.
+## Support
 
-## Getting Started
+https://sociabuzz.com/syarifhidayatullah2020/tribe
 
-This project is a starting point for a Flutter application.
+## UI/UX
 
-A few resources to get you started if this is your first Flutter project:
+https://dribbble.com/shots/17341550-Food-Recipe-App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Youtube
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://youtu.be/AFgf6n7Af_A
+
+## Preview
+
+<p align="middle">
+<img src="assets/preview/onboard.png" alt="OnBoard" width="200">
+<img src="assets/preview/home.png" alt="HomePage" width="200">
+<img src="assets/preview/detail.png" alt="Detail" width="200">
+</p>
