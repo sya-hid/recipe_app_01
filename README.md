@@ -1,7 +1,8 @@
-# Grocery App
+# Recipe App
 
 ## Support
 
+https://www.buymeacoffe.com/syarifhidayat
 https://sociabuzz.com/syarifhidayatullah2020/tribe
 
 ## UI/UX
@@ -10,7 +11,7 @@ https://dribbble.com/shots/17341550-Food-Recipe-App
 
 ## Youtube
 
-https://youtu.be/AFgf6n7Af_A
+https://youtu.be/-62SiD6iypM
 
 ## Preview
 
