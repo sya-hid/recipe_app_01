@@ -20,3 +20,4 @@ https://youtu.be/-62SiD6iypM
 <img src="assets/preview/home.png" alt="HomePage" width="200">
 <img src="assets/preview/detail.png" alt="Detail" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.recipe_app_01"/>  
